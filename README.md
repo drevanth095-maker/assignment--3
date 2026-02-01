@@ -11,10 +11,10 @@ The Assignment covers:
   1.Missing values are checked and corrected it.
   2.Removed duplicates from the data set
 📌Target Variable:
-Fare (continuous)
+   Fare (continuous)
 📌Input Features:
-Age
-Pclass
+   Age
+   Pclass
 📌Exploratory Data Analysis (EDA):-
    1.Fare is strongly influenced by Pclass
    2.Passengers in 1st class paid significantly higher fares
@@ -32,7 +32,7 @@ The model was evaluated by using two Standard merices
      2.R² Score
       Represents proportion of variance explained by the model
       Value closer to 1 indicates better performance and it also explains the variance 
-📌Interpretation:
+📌Interpretation:-
     Moderate MSE due to high variance in fare values
     R² score indicates the model explains a reasonable portion of fare variability
 ✅ Final Conclusion:-
@@ -41,5 +41,5 @@ The model was evaluated by using two Standard merices
     Pclass is the strongest predictor of Fare
     Model performance is acceptable for linear assumptions
     More advanced models may further improve prediction accuracy
-    📄 This project demonstrates fundamental ML concepts of the Exploratory Data Analysis (EDA), regression modeling, coefficient interpretation, and evaluation metrics.
+    📄 This project demonstrates fundamental ML concepts of  the Exploratory Data Analysis (EDA), regression modeling, coefficient interpretation, and evaluation metrics.
      
