@@ -12,7 +12,7 @@ The Assignment covers:
   2.Removed duplicates from the data set
 📌Target Variable:
    Fare (continuous)
-📌Input Features:
+📌Input Features:-
    Age
    Pclass
 📌Exploratory Data Analysis (EDA):-
